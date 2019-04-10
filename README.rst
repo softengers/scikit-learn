@@ -36,7 +36,7 @@ for a list of core contributors.
 
 It is currently maintained by a team of volunteers.
 
-Website: http://scikit-learn.org
+Website: http://scikit-learn.org、http://sklearn.apachecn.org/
 
 
 Installation
